@@ -1,6 +1,4 @@
-# lesson-25-sleep-debt-calculator
-
-Sleep Debt Calculator
+# Sleep Debt Calculator
 
 Știați că girafele dorm doar 4,6 ore pe zi? Noi, oamenii, avem nevoie de mai mult decât atât. Dacă nu dormim suficient, acumulăm un deficit de somn. În acest proiect, vom calcula dacă dormiți suficient în fiecare săptămână folosind un calculator de deficit de somn. Programul va determina orele reale și ideale de somn pentru fiecare noapte din ultima săptămână. În final, va calcula, în ore, cât de departe sunteți de obiectivul săptămânal de somn.
 1.	Prima problemă de rezolvat este determinarea numărului de ore de somn obținut în fiecare noapte a săptămânii. Puteți crea o funcție care returnează numărul de ore de odihnă pentru orice noapte dată. În loc să scrieți șapte funcții diferite (una pentru fiecare zi a săptămânii), mai bine scrieţi o singură funcție cu un parametru pentru ziua respectivă. Creați o funcție numită getSleepHours cu un singur parametru numit day.
